@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+},
+"autoload":{
+    "psr-4":{
+        "Fawzia_Akter_1831160642_cse327project\\":"Fawzia_Akter_1831160642_cse327project"
+      }
+    }
+}
